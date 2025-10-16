@@ -45,7 +45,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 <br>
 <br>
 
-### Infinity Norm of a Matrix<img width="280" height="130" alt="image" src="https://github.com/user-attachments/assets/5e213721-4321-4206-a714-dd2d45403b5b" />
+### Infinity Norm of a Matrix<img width="548" height="199" alt="image" src="https://github.com/user-attachments/assets/6a0050c0-f2f2-44e2-bdf5-0b6e1ab5ca2f" />
+
 
 <br>
 <br>
