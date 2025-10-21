@@ -9,23 +9,29 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
     2. Find the 2-norm of the matrix using np.linalg.norm()
 	3. Print the norm of the matrix in two decimal places.
 ## Program:
+<img width="400" height="133" alt="image" src="https://github.com/user-attachments/assets/a92ef6f5-03a0-40d1-8aa4-e3d9e4ce1cac" />
+<img width="348" height="242" alt="image" src="https://github.com/user-attachments/assets/a2977be6-880e-4360-93c4-a227db347f02" />
+<img width="273" height="138" alt="image" src="https://github.com/user-attachments/assets/c1893de6-87e7-4a00-9e5c-81dee5701be9" />
+
 ```Python
 # Register No:
 # Developed By:
 # 1-Norm of a Matrix
-<img width="399" height="137" alt="image" src="https://github.com/user-attachments/assets/ecf0aacc-7d2d-46a2-8e39-34e8e3042c30" />
+<img width="400" height="133" alt="image" src="https://github.com/user-attachments/assets/76025527-fec8-41a1-a320-f75b561b45e6" />
+
 
 
 
 
 # 2-Norm of a Matrix
-<img width="396" height="217" alt="image" src="https://github.com/user-attachments/assets/814b56e5-99ea-467e-9621-97d96b94089e" />
+
 
 
 
 
 # Infinity Norm of a Matrix
-<img width="286" height="122" alt="image" src="https://github.com/user-attachments/assets/4ea9963a-3a8e-4fbb-a246-f9bb78e2b155" />
+
+<img width="273" height="138" alt="image" src="https://github.com/user-attachments/assets/a50c9e04-1744-4af2-8e0a-3fc88440b063" />
 
 
 
@@ -33,9 +39,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 ```
 ## Output:
-### 1-Norm of a Matrix<img width="588" height="213" alt="image" src="https://github.com/user-attachments/assets/7995ef70-dfba-4b60-93db-766485e4f7aa" />
-
-<br>
+### 1-Norm of a Matrix
+<br><img width="588" height="213" alt="image" src="https://github.com/user-attachments/assets/7995ef70-dfba-4b60-93db-766485e4f7aa" />
 <br>
 <br>
 
