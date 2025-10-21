@@ -10,7 +10,9 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	3. Print the norm of the matrix in two decimal places.
 ## Program:
 <img width="400" height="133" alt="image" src="https://github.com/user-attachments/assets/a92ef6f5-03a0-40d1-8aa4-e3d9e4ce1cac" />
+
 <img width="348" height="242" alt="image" src="https://github.com/user-attachments/assets/a2977be6-880e-4360-93c4-a227db347f02" />
+
 <img width="273" height="138" alt="image" src="https://github.com/user-attachments/assets/c1893de6-87e7-4a00-9e5c-81dee5701be9" />
 
 ```Python
